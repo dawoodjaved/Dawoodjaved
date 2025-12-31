@@ -10,7 +10,7 @@
 
 <!-- SOCIAL BADGES -->
 <p>
-  <a href="www.dawoodjaveed.com" target="_blank">
+  <a href="https://www.dawoodjaveed.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="mailto:dawoodjaved443@gmail.com">
