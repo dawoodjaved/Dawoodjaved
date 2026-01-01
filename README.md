@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=150&lines=5%2B+Years+Transforming+Ideas+Into+Production-Ready+Solutions+%F0%9F%9A%80;Architecting+Scalable+Systems+%7C+Optimizing+Performance+%E2%9A%A1;Ruby+on+Rails+%7C+React+%7C+Node.js+%7C+Next.js;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=150&lines=5%2B+Years+Transforming+Ideas+Into+Production-Ready+Solutions+%F0%9F%9A%80;Architecting+Scalable+Systems+%7C+Optimizing+Performance+%E2%9A%A1;Ruby+on+Rails+%7C+React+%7C+Next.js;" alt="Typing SVG" />
 </a>
 
 <!-- SOCIAL BADGES -->
@@ -56,7 +56,6 @@ const dawood: Developer = {
   highlights: {
     performanceOptimization: "83% latency reduction in critical modules",
     scaleImpact: "50,000+ assets managed with real-time telemetry",
-    integrationSpeed: "70% faster deployment with unified frameworks",
     databaseOptimization: "98% reduction in mass-checkout processing time",
     teamLeadership: "Mentored 5+ developers, drove sprint success",
     securityExpert: "Implemented SAML 2.0, SCIM, hardened against XSS/SQL injection"
@@ -169,10 +168,6 @@ const dawood: Developer = {
 <br>MongoDB
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-<br>Redis
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" />
 <br>Elasticsearch
 </td>
@@ -194,18 +189,6 @@ const dawood: Developer = {
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
 <br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="Heroku" />
-<br>Heroku
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
-<br>Netlify
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub Actions
 </td>
 </tr>
 </table>
@@ -230,10 +213,7 @@ const dawood: Developer = {
 <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
 <br>Webpack
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-<br>GraphQL
-</td>
+
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
 <br>HTML5
@@ -288,7 +268,6 @@ const dawood: Developer = {
 #### 🏗️ Architecture & Integration Innovation
 - **Telemetry Integration Framework**: Unified solution for Samsara, John Deere, Hapn
   - ⏱️ **70% reduction** in integration time
-  - 📊 **45% improvement** in data reliability
   - 📡 Real-time telemetry for **50,000+ assets**
 
 #### 🔐 Security & Authentication Systems
@@ -312,12 +291,12 @@ const dawood: Developer = {
 
 </div>
 
-<details>
+<details open>
 <summary><b>🎯 Key Contributions</b></summary>
 <br/>
 
 - 💻 Developed production-ready MERN stack applications
-- 🔌 Integrated RESTful APIs with **25% faster** implementation
+- 🔌 Integrated RESTful APIs
 - 🏛️ Applied modular architecture patterns
 
 </details>
@@ -331,13 +310,12 @@ const dawood: Developer = {
 
 </div>
 
-<details>
+<details open>
 <summary><b>🎯 Key Contributions</b></summary>
 <br/>
 
 - 🚀 Built web applications with Rails, React.js, Node.js
-- 💾 Improved database performance by **60%**
-- ☁️ Managed cloud deployments with 99.9% uptime
+- 💾 Improved database performance
 
 </details>
 
@@ -357,11 +335,10 @@ const dawood: Developer = {
 ---
 
 ### 📡 Unified Telemetry Integration Framework
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Impact:** 🚀 70% faster integration | 📊 45% better reliability | 🌐 50K+ assets
+**Impact:** 🚀 Real-time telemetry data syncing | 📊 Batching, Cronjobs | 🌐 50K+ assets
 
 ---
 
@@ -389,25 +366,6 @@ const dawood: Developer = {
 **Features:** 🤖 AI recommendations | 🛡️ Fraud detection | 🗣️ Voice search
 
 </div>
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Core Competencies
-
-<div align="center">
-
-| 🎯 Domain | 💡 Expertise | 📈 Results |
-|:----------|:-------------|:-----------|
-| **Performance** | Profiling, optimization | 83-98% improvements |
-| **Architecture** | Microservices, event-driven | 70% faster delivery |
-| **Database** | Query tuning, indexing | 60-98% faster |
-| **Security** | SAML, SCIM, mitigation | Zero incidents |
-| **Cloud** | AWS, Azure, serverless | 99.9% uptime |
-| **Leadership** | Mentoring, reviews | 40% velocity boost |
-
-</div>
-
----
 
 ## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="35"> Let's Build Something Extraordinary
 
