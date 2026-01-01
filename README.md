@@ -256,8 +256,6 @@ const dawood: Developer = {
 <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dawoodjaved&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats"/>
 <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dawoodjaved&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&hide=html,css" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=dawoodjaved&theme=algolia&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dawoodjaved&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
