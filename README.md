@@ -115,136 +115,262 @@ const dawood: Developer = {
 
 <div align="center">
 
-### 💻 Languages and Frameworks
+### 💻 Languages
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
-<br>Ruby
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Rails" />
-<br>Rails
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
+<td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
 <br>TypeScript
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
+<br>Ruby
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br>Next.js
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
 </td>
-<td align="center" width="96">
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/48/sql.png" width="48" height="48" alt="SQL" />
+<br>SQL
+</td>
+</tr>
+</table>
+
+### 🧩 Frameworks
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Ruby on Rails" />
+<br>Ruby on Rails
+</td>
+<td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
 <br>Redux
 </td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js 14
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+<br>Bootstrap
+</td>
 </tr>
+</table>
+
+<table width="100%">
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI" />
+<br>Material UI
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br>Express
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+<br>Tailwind CSS
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br>HTML5
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+<br>Express.js
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br>CSS3
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
-<br>Webpack
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-<br>jQuery
-</td>
-<td align="center" width="96">
+<td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
 <br>React Native
 </td>
 </tr>
 </table>
 
-### 🗄️ Databases and Search
+<p>
+  <img src="https://img.shields.io/badge/OAuth_2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth 2" />
+</p>
 
-<table>
+### 📦 Libraries / APIs
+
+<table width="100%">
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-<br>PostgreSQL
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery UI" />
+<br>jQuery UI
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" />
-<br>Elasticsearch
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/slack/4A154B" width="48" height="48" alt="Slack API" />
+<br>Slack API
 </td>
 </tr>
 </table>
 
-### ☁️ Cloud, DevOps, and Monitoring
+<p>
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets API" />
+  <img src="https://img.shields.io/badge/Zendesk_API-03363D?style=for-the-badge&logo=zendesk&logoColor=white" alt="Zendesk API" />
+  <img src="https://img.shields.io/badge/Jira_REST_API-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira REST API" />
+</p>
 
-<table>
+### 🛠️ Tools
+
+<table width="100%">
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-<br>AWS
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
-<br>Azure
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-<br>GitHub Actions
-</td>
-<td align="center" width="96">
+<td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
 <br>Git
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br>Postman
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack 5" />
+<br>Webpack 5
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux Toolkit" />
+<br>Redux Toolkit
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/expo/000020" width="48" height="48" alt="Expo" />
+<br>Expo
 </td>
 </tr>
 </table>
 
-**Security and Auth:** SAML 2.0 SSO · SCIM · OAuth 2.0 · LDAP · XSS Prevention · SQL Injection Prevention
+<p>
+  <img src="https://img.shields.io/badge/RSpec-CC342D?style=for-the-badge&logo=rspec&logoColor=white" alt="RSpec" />
+  <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" />
+  <img src="https://img.shields.io/badge/Airbrake-E74C3C?style=for-the-badge" alt="Airbrake" />
+  <img src="https://img.shields.io/badge/Errbit-111827?style=for-the-badge" alt="Errbit" />
+  <img src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge" alt="Redmine" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
 
-**Testing and Observability:** RSpec · Automated Testing · Unit Testing · Datadog · APM · Kibana · Airbrake · Errbit
+### 🗄️ Storage
 
-**Integrations:** Procore · Samsara · John Deere · Hapn · SkyBitz · Zendesk Apps · Jira Apps · HubSpot · Apollo · Slack API
+<table width="100%">
+<tr>
+<td align="center" width="16%">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="16%">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="16%">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="16%">
+<img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" />
+<br>Elasticsearch
+</td>
+<td align="center" width="16%">
+<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure Active Directory" />
+<br>Azure AD
+</td>
+<td align="center" width="16%">
+<img src="https://cdn.simpleicons.org/datadog/632CA6" width="48" height="48" alt="Datadog" />
+<br>Datadog
+</td>
+</tr>
+</table>
 
-**AI and LLM Tools:** Cursor · GitHub Copilot · Claude · Groq
+<p>
+  <img src="https://img.shields.io/badge/Data_Synchronization-0EA5E9?style=for-the-badge" alt="Data Synchronization" />
+  <img src="https://img.shields.io/badge/Data_Pipelines-6366F1?style=for-the-badge" alt="Data Pipelines" />
+</p>
+
+### ☁️ Platforms
+
+<table width="100%">
+<tr>
+<td align="center" width="16%">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="Amazon Web Services" />
+<br>AWS
+</td>
+<td align="center" width="16%">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="16%">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="16%">
+<img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="macOS" />
+<br>macOS
+</td>
+<td align="center" width="16%">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Visual Studio Code" />
+<br>VS Code
+</td>
+<td align="center" width="16%">
+<img src="https://skillicons.dev/icons?i=appwrite" width="48" height="48" alt="Appwrite" />
+<br>Appwrite
+</td>
+</tr>
+</table>
+
+### 🧠 Paradigms
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Design_Patterns-111827?style=for-the-badge" alt="Design Patterns" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-14B8A6?style=for-the-badge" alt="Model Context Protocol" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Automation-F59E0B?style=for-the-badge" alt="Automation" />
+</td>
+</tr>
+</table>
+
+### ✨ Other
+
+<p>
+  <img src="https://img.shields.io/badge/Full--stack_Development-111827?style=for-the-badge" alt="Full-stack Development" />
+  <img src="https://img.shields.io/badge/System_Architecture-0F172A?style=for-the-badge" alt="System Architecture" />
+  <img src="https://img.shields.io/badge/Scalability-2563EB?style=for-the-badge" alt="Scalability" />
+  <img src="https://img.shields.io/badge/Performance_Optimization-22C55E?style=for-the-badge" alt="Performance Optimization" />
+  <img src="https://img.shields.io/badge/RESTFul_APIs-02569B?style=for-the-badge" alt="RESTFul APIs" />
+  <img src="https://img.shields.io/badge/API_Integration-0284C7?style=for-the-badge" alt="API Integration" />
+  <img src="https://img.shields.io/badge/Webhooks-7C3AED?style=for-the-badge" alt="Webhooks" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Integrations-F59E0B?style=for-the-badge" alt="Integrations" />
+  <img src="https://img.shields.io/badge/Telemetry-22D3EE?style=for-the-badge" alt="Telemetry" />
+  <img src="https://img.shields.io/badge/GPS_Integration-06B6D4?style=for-the-badge" alt="GPS Integration" />
+  <img src="https://img.shields.io/badge/SAML_2.0-DC2626?style=for-the-badge" alt="SAML 2.0" />
+  <img src="https://img.shields.io/badge/SCIM-EA580C?style=for-the-badge" alt="SCIM" />
+  <img src="https://img.shields.io/badge/Web_Security-991B1B?style=for-the-badge" alt="Web Security" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/HubSpot_CRM-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot CRM" />
+  <img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white" alt="Apollo" />
+  <img src="https://img.shields.io/badge/CRM-2563EB?style=for-the-badge" alt="CRM" />
+  <img src="https://img.shields.io/badge/Asset_Management-0D9488?style=for-the-badge" alt="Asset Management" />
+  <img src="https://img.shields.io/badge/SaaS-4F46E5?style=for-the-badge" alt="Software as a Service" />
+  <img src="https://img.shields.io/badge/User_Interface_(UI)-EC4899?style=for-the-badge" alt="User Interface" />
+  <img src="https://img.shields.io/badge/User_Experience_(UX)-F43F5E?style=for-the-badge" alt="User Experience" />
+  <img src="https://img.shields.io/badge/MVP_Design-8B5CF6?style=for-the-badge" alt="MVP Design" />
+  <img src="https://img.shields.io/badge/Product_Management-0EA5E9?style=for-the-badge" alt="Product Management" />
+  <img src="https://img.shields.io/badge/Code_Review-334155?style=for-the-badge" alt="Code Review" />
+  <img src="https://img.shields.io/badge/Debugging-64748B?style=for-the-badge" alt="Debugging" />
+  <img src="https://img.shields.io/badge/Bug_Fixes-EF4444?style=for-the-badge" alt="Bug Fixes" />
+  <img src="https://img.shields.io/badge/Team_Leadership-14B8A6?style=for-the-badge" alt="Team Leadership and Supervision" />
+  <img src="https://img.shields.io/badge/Problem_Solving-F97316?style=for-the-badge" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Web_Development-0F172A?style=for-the-badge" alt="Web Development" />
+  <img src="https://img.shields.io/badge/Cursor_AI-F59E0B?style=for-the-badge" alt="Cursor AI" />
+  <img src="https://img.shields.io/badge/Vibe_Coding-A855F7?style=for-the-badge" alt="Vibe Coding" />
+  <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/RAG-06B6D4?style=for-the-badge" alt="Retrieval-augmented Generation" />
+  <img src="https://img.shields.io/badge/Fine--tuning-8B5CF6?style=for-the-badge" alt="Fine-tuning" />
+</p>
 
 </div>
 
