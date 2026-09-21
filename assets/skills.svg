@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="300" viewBox="0 0 540 300" role="img" aria-label="Skills">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#14B8A6"/><stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect width="540" height="300" rx="16" fill="#070B12" stroke="#1E2A3A"/>
+  <rect width="540" height="36" rx="16" fill="#101820"/>
+  <rect y="18" width="540" height="18" fill="#101820"/>
+  <text x="20" y="24" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="600" fill="#E2E8F0">Skills</text>
+  <text x="520" y="24" text-anchor="end" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" fill="#14B8A6">production</text>
+
+  <g font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#E2E8F0">
+    <text x="24" y="68">Ruby on Rails</text>
+    <rect x="150" y="56" width="360" height="10" rx="5" fill="#1E2A3A"/>
+    <rect x="150" y="56" width="330" height="10" rx="5" fill="url(#bar)"/>
+    <text x="24" y="102">React.js / Next.js</text>
+    <rect x="150" y="90" width="360" height="10" rx="5" fill="#1E2A3A"/>
+    <rect x="150" y="90" width="310" height="10" rx="5" fill="url(#bar)"/>
+    <text x="24" y="136">Integrations</text>
+    <rect x="150" y="124" width="360" height="10" rx="5" fill="#1E2A3A"/>
+    <rect x="150" y="124" width="340" height="10" rx="5" fill="url(#bar)"/>
+    <text x="24" y="170">MySQL / SQL</text>
+    <rect x="150" y="158" width="360" height="10" rx="5" fill="#1E2A3A"/>
+    <rect x="150" y="158" width="300" height="10" rx="5" fill="url(#bar)"/>
+    <text x="24" y="204">SAML / SCIM</text>
+    <rect x="150" y="192" width="360" height="10" rx="5" fill="#1E2A3A"/>
+    <rect x="150" y="192" width="280" height="10" rx="5" fill="url(#bar)"/>
+    <text x="24" y="238">TypeScript</text>
+    <rect x="150" y="226" width="360" height="10" rx="5" fill="#1E2A3A"/>
+    <rect x="150" y="226" width="270" height="10" rx="5" fill="url(#bar)"/>
+  </g>
+  <text x="24" y="276" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" fill="#64748B">Procore / Samsara / HubSpot / Zendesk / Jira / Datadog</text>
+</svg>

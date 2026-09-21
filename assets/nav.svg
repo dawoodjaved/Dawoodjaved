@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="52" viewBox="0 0 1100 52" role="img" aria-label="Navigation">
+  <rect width="1100" height="52" rx="26" fill="#0E141C" stroke="#1E2A3A"/>
+  <rect x="8" y="6" width="160" height="40" rx="20" fill="#14B8A6"/>
+  <text x="88" y="32" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="600" fill="#042F2E">Overview</text>
+  <text x="268" y="32" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#94A3B8">Experience</text>
+  <text x="448" y="32" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#94A3B8">Projects</text>
+  <text x="628" y="32" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#94A3B8">GitHub</text>
+  <text x="820" y="32" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#94A3B8">Skills</text>
+  <text x="1000" y="32" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#14B8A6">Contact</text>
+</svg>

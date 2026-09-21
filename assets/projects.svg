@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="340" viewBox="0 0 1100 340" role="img" aria-label="Production systems">
+  <rect width="1100" height="340" rx="18" fill="#070B12"/>
+  <text x="16" y="28" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">Production systems · EZO</text>
+
+  <g font-family="ui-sans-serif, system-ui, sans-serif">
+    <g transform="translate(16,44)">
+      <rect width="346" height="130" rx="14" fill="#101820" stroke="#1E2A3A"/>
+      <rect width="6" height="130" rx="3" fill="#14B8A6"/>
+      <text x="24" y="32" font-size="12" fill="#14B8A6">FRONTEND</text>
+      <text x="24" y="58" font-size="18" font-weight="700" fill="#F8FAFC">Work Orders</text>
+      <text x="24" y="82" font-size="12" fill="#94A3B8">Rails ERB ’ React · live CMMS</text>
+      <text x="24" y="110" font-size="13" font-weight="600" fill="#22D3EE">83% faster pagination</text>
+    </g>
+    <g transform="translate(378,44)">
+      <rect width="346" height="130" rx="14" fill="#101820" stroke="#1E2A3A"/>
+      <rect width="6" height="130" rx="3" fill="#22D3EE"/>
+      <text x="24" y="32" font-size="12" fill="#22D3EE">IOT / GPS</text>
+      <text x="24" y="58" font-size="18" font-weight="700" fill="#F8FAFC">Telematics suite</text>
+      <text x="24" y="82" font-size="12" fill="#94A3B8">Samsara · Deere · Hapn · SkyBitz</text>
+      <text x="24" y="110" font-size="13" font-weight="600" fill="#22D3EE">70% faster · 50K+ assets</text>
+    </g>
+    <g transform="translate(740,44)">
+      <rect width="344" height="130" rx="14" fill="#101820" stroke="#1E2A3A"/>
+      <rect width="6" height="130" rx="3" fill="#F59E0B"/>
+      <text x="24" y="32" font-size="12" fill="#F59E0B">CONSTRUCTION</text>
+      <text x="24" y="58" font-size="18" font-weight="700" fill="#F8FAFC">Procore SoR</text>
+      <text x="24" y="82" font-size="12" fill="#94A3B8">Bidirectional equipment register</text>
+      <text x="24" y="110" font-size="13" font-weight="600" fill="#22D3EE">Create / update / delete / UID</text>
+    </g>
+    <g transform="translate(16,190)">
+      <rect width="346" height="130" rx="14" fill="#101820" stroke="#1E2A3A"/>
+      <rect width="6" height="130" rx="3" fill="#A78BFA"/>
+      <text x="24" y="32" font-size="12" fill="#A78BFA">SUPPORT</text>
+      <text x="24" y="58" font-size="18" font-weight="700" fill="#F8FAFC">Zendesk + Jira</text>
+      <text x="24" y="82" font-size="12" fill="#94A3B8">Agent apps · OAuth · i18n</text>
+      <text x="24" y="110" font-size="13" font-weight="600" fill="#22D3EE">8+ language markets</text>
+    </g>
+    <g transform="translate(378,190)">
+      <rect width="346" height="130" rx="14" fill="#101820" stroke="#1E2A3A"/>
+      <rect width="6" height="130" rx="3" fill="#34D399"/>
+      <text x="24" y="32" font-size="12" fill="#34D399">WAREHOUSE</text>
+      <text x="24" y="58" font-size="18" font-weight="700" fill="#F8FAFC">Batch + Blind Audit</text>
+      <text x="24" y="82" font-size="12" fill="#94A3B8">Checkout · barcodes · APIs</text>
+      <text x="24" y="110" font-size="13" font-weight="600" fill="#22D3EE">Unbiased physical counts</text>
+    </g>
+    <g transform="translate(740,190)">
+      <rect width="344" height="130" rx="14" fill="#101820" stroke="#1E2A3A"/>
+      <rect width="6" height="130" rx="3" fill="#FB7185"/>
+      <text x="24" y="32" font-size="12" fill="#FB7185">GTM</text>
+      <text x="24" y="58" font-size="18" font-weight="700" fill="#F8FAFC">HubSpot CRM</text>
+      <text x="24" y="82" font-size="12" fill="#94A3B8">Apollo enrich · Redmine status</text>
+      <text x="24" y="110" font-size="13" font-weight="600" fill="#22D3EE">Active vs Historic work</text>
+    </g>
+  </g>
+</svg>
