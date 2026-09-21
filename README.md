@@ -203,7 +203,7 @@ const dawood: Developer = {
 <br>Node.js
 </td>
 <td align="center" width="25%">
-<img src="https://cdn.simpleicons.org/slack/4A154B" width="48" height="48" alt="Slack API" />
+<img src="https://img.icons8.com/color/48/slack-new.png" width="48" height="48" alt="Slack API" />
 <br>Slack API
 </td>
 </tr>
@@ -233,7 +233,7 @@ const dawood: Developer = {
 <br>Redux Toolkit
 </td>
 <td align="center" width="25%">
-<img src="https://cdn.simpleicons.org/expo/000020" width="48" height="48" alt="Expo" />
+<img src="https://img.icons8.com/color/48/expo.png" width="48" height="48" alt="Expo" />
 <br>Expo
 </td>
 </tr>
@@ -274,7 +274,7 @@ const dawood: Developer = {
 <br>Azure AD
 </td>
 <td align="center" width="16%">
-<img src="https://cdn.simpleicons.org/datadog/632CA6" width="48" height="48" alt="Datadog" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg" width="48" height="48" alt="Datadog" />
 <br>Datadog
 </td>
 </tr>
@@ -680,12 +680,6 @@ I am passionate about **transformative enterprise products** that combine strong
 ### 😄 Random Dev Humor
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
----
-
-### 📊 Profile Summary
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dawoodjaved&theme=github_dark)
 
 ---
 
