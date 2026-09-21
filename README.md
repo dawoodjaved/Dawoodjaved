@@ -232,15 +232,15 @@ const dawood: Developer = {
 <table>
 <tr>
 <td width="50%" valign="top">
-  <img src="github-profile/assets/terminal.svg" alt="Terminal showing production status" width="100%" />
+  <img src="assets/terminal.svg" alt="Terminal showing production status" width="100%" />
 </td>
 <td width="50%" valign="top">
-  <img src="github-profile/assets/skills.svg" alt="Skill meters for Rails, React, integrations, SQL, SAML, TypeScript" width="100%" />
+  <img src="assets/skills.svg" alt="Skill meters for Rails, React, integrations, SQL, SAML, TypeScript" width="100%" />
 </td>
 </tr>
 </table>
 
-<img src="github-profile/assets/journey.svg" alt="GitHub journey 2019 to 2026 · 2,637 commits · 529 merged PRs" width="100%" />
+<img src="assets/journey.svg" alt="GitHub journey 2019 to 2026 · 2,637 commits · 529 merged PRs" width="100%" />
 
 <p>
   <img src="https://img.shields.io/badge/Work_Orders-14B8A6?style=for-the-badge" alt="Work Orders" />
@@ -253,11 +253,11 @@ const dawood: Developer = {
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=00D9FF&center=true&vCenter=true&width=800&lines=2637+commits+%C2%B7+529+merged+PRs+%C2%B7+private+Rails+%2F+React+at+EZO" alt="GitHub totals" />
 
-<img src="github-profile/assets/github-data.svg" alt="2,637 commits, 529 merged PRs, 235 reviews, 2,482 on private EZO. Languages: Ruby 61%, TypeScript 26%, JavaScript 13%" width="100%" />
+<img src="assets/github-data.svg" alt="2,637 commits, 529 merged PRs, 235 reviews, 2,482 on private EZO. Languages: Ruby 61%, TypeScript 26%, JavaScript 13%" width="100%" />
 
-<img src="github-profile/assets/streak.svg" alt="910 contributions including private 7Vals, current streak 2, longest streak 6" width="100%" />
+<img src="assets/streak.svg" alt="910 contributions including private 7Vals, current streak 2, longest streak 6" width="100%" />
 
-<img src="github-profile/assets/activity.svg" alt="Activity graph including private 7Vals / EZO contributions" width="100%" />
+<img src="assets/activity.svg" alt="Activity graph including private 7Vals / EZO contributions" width="100%" />
 
 </div>
 
