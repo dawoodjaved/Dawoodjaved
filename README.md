@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=150&lines=5%2B+Years+Building+High-Performance+Enterprise+SaaS+%F0%9F%9A%80;Ruby+on+Rails+%7C+React.js+%7C+TypeScript+%7C+Next.js;Integrations+%7C+Performance+%7C+Security+%7C+Technical+Leadership" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=150&lines=5%2B+Years+Building+High-Performance+Enterprise+SaaS+%F0%9F%9A%80;Rails+%7C+React+%7C+React+Native+%7C+Next.js+%7C+TypeScript;Integrations+%7C+Mobile+%7C+Marketplaces+%7C+Real--time+Systems" alt="Typing SVG" />
 </a>
 
 <!-- SOCIAL BADGES -->
@@ -40,7 +40,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-Full Stack Software Engineer with **5+ years** of experience designing, building, and optimizing high-performance web applications for enterprise SaaS. Deep expertise in **Ruby on Rails**, **React.js**, and **TypeScript**, with a track record of shipping cloud integrations, database optimization, identity and access management, and production-grade security. Known for turning complex customer workflows into scalable, maintainable systems with measurable business impact.
+Full Stack Software Engineer with **5+ years** of experience designing, building, and optimizing high-performance web applications for enterprise SaaS — plus shipping personal mobile and marketplace products end to end. Deep expertise in **Ruby on Rails**, **React.js**, **React Native / Expo**, **Next.js**, and **TypeScript**, with a track record of cloud integrations, database optimization, identity and access management, and production-grade security. Known for turning complex customer workflows into scalable, maintainable systems with measurable business impact.
 
 ```typescript
 const dawood: Developer = {
@@ -67,13 +67,13 @@ const dawood: Developer = {
   currentlyFocusedOn: [
     "Enterprise SaaS integrations and event-driven pipelines",
     "Performance engineering at large-account scale",
-    "Identity, SSO, and security-first development",
-    "Technical mentorship and engineering excellence"
+    "Mobile products with Expo / React Native",
+    "API marketplaces, real-time systems, and AI trust features"
   ],
 
   askMeAbout: [
     "Full-stack development", "System architecture", "REST APIs and webhooks",
-    "Database optimization", "SSO / SCIM", "DevOps and CI/CD", "Agile leadership"
+    "React Native / Expo", "SSO / SCIM", "DevOps and CI/CD", "Agile leadership"
   ]
 };
 ```
@@ -152,7 +152,7 @@ const dawood: Developer = {
 </td>
 <td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br>Next.js 14
+<br>Next.js
 </td>
 <td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
@@ -366,7 +366,12 @@ const dawood: Developer = {
   <img src="https://img.shields.io/badge/Problem_Solving-F97316?style=for-the-badge" alt="Problem Solving" />
   <img src="https://img.shields.io/badge/Web_Development-0F172A?style=for-the-badge" alt="Web Development" />
   <img src="https://img.shields.io/badge/Cursor_AI-F59E0B?style=for-the-badge" alt="Cursor AI" />
-  <img src="https://img.shields.io/badge/Vibe_Coding-A855F7?style=for-the-badge" alt="Vibe Coding" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Offline--first-0EA5E9?style=for-the-badge" alt="Offline-first" />
   <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/RAG-06B6D4?style=for-the-badge" alt="Retrieval-augmented Generation" />
   <img src="https://img.shields.io/badge/Fine--tuning-8B5CF6?style=for-the-badge" alt="Fine-tuning" />
@@ -401,6 +406,10 @@ const dawood: Developer = {
   <img src="https://img.shields.io/badge/Batch_Audits-34D399?style=for-the-badge" alt="Batch" />
   <img src="https://img.shields.io/badge/SSO_SCIM-FB7185?style=for-the-badge" alt="SSO" />
   <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge" alt="HubSpot" />
+  <a href="https://code-mehfil-sigma.vercel.app/"><img src="https://img.shields.io/badge/CodeMehfil-FB7185?style=for-the-badge" alt="CodeMehfil" /></a>
+  <a href="https://api-doorway.vercel.app/"><img src="https://img.shields.io/badge/APIDoorway-38BDF8?style=for-the-badge" alt="APIDoorway" /></a>
+  <a href="https://trustwala-bazaar.vercel.app/"><img src="https://img.shields.io/badge/TrustWala-F59E0B?style=for-the-badge" alt="TrustWala" /></a>
+  <a href="https://apps.apple.com/us/app/ivy-league-consults/id6756354667"><img src="https://img.shields.io/badge/IvyLeague_Consults-8B5CF6?style=for-the-badge" alt="IvyLeague" /></a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=00D9FF&center=true&vCenter=true&width=800&lines=2637+commits+%C2%B7+529+merged+PRs+%C2%B7+private+Rails+%2F+React+at+EZO" alt="GitHub totals" />
@@ -509,6 +518,58 @@ Enterprise asset intelligence platform spanning EZOfficeInventory, AssetSonar, E
 
 <div align="center">
 
+### 🚪 APIDoorway — API Marketplace & Gateway
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+
+Full API marketplace and gateway with a live catalog of **4,021 APIs** / **5,605 endpoints** across 10 industries, OpenAPI import, hashed scoped keys, Redis rate limits and caching, Stripe billing, and a Python catalog scoring pipeline.
+
+**Impact:** Multi-sided developer platform · Real gateway traffic · Catalog at industry scale  
+**Links:** [Live](https://api-doorway.vercel.app/) · [GitHub](https://github.com/dawoodjaved/api-arena)
+
+---
+
+### 🛒 TrustWala Bazaar — AI Marketplace
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square)
+
+Pakistan-focused AI marketplace spanning mobiles, electronics, laptops, automotive, cameras, gaming, wearables, and audio — with CNIC/video verification, weighted trust scores, fraud checks, visual search, and escrow-ready checkout.
+
+**Impact:** Trust-first commerce · Multimodal AI · Emerging-market product fit  
+**Links:** [Live](https://trustwala-bazaar.vercel.app/) · [GitHub](https://github.com/dawoodjaved/trust-wala-bazaar)
+
+---
+
+### 👨‍💻 CodeMehfil — Real-Time Collaborative Coding
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![Yjs](https://img.shields.io/badge/Yjs_CRDT-1B1F23?style=flat-square)
+![Judge0](https://img.shields.io/badge/Judge0-00D9FF?style=flat-square)
+
+Real-time pair programming and interview platform with Monaco + Yjs CRDT sync, Rails ActionCable, Judge0 execution across **11 languages**, LiveKit video, Excalidraw whiteboard, and a searchable catalog of **1,152 HackerRank challenges**.
+
+**Impact:** Live collab · Interview OS · Large question bank, not a toy seed set  
+**Links:** [Live](https://code-mehfil-sigma.vercel.app/) · [GitHub](https://github.com/dawoodjaved/CodePair)
+
+---
+
+### 🎓 IvyLeague Consults
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+
+Mobile coaching app for high-school students targeting competitive college admissions (2025–2026). Competitiveness scoring with animated gauge, grade-based roadmaps, opportunity browsing, PDF resume export, Firebase Auth, and Stripe-powered IvyLeague Premium.
+
+**Impact:** Live on the App Store · Scoring engine · Premium entitlements via Cloud Functions  
+**Links:** [App Store](https://apps.apple.com/us/app/ivy-league-consults/id6756354667)
+
+---
+
 ### 🔧 Work Orders Module Migration
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
@@ -565,27 +626,29 @@ Delivered end-to-end batch management for inventory and asset stock, covering ch
 
 ---
 
-### 👨‍💻 CodePair — Real-Time Collaborative Coding
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
-![Monaco](https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square)
-![Judge0](https://img.shields.io/badge/Judge0-00D9FF?style=flat-square)
+### 🏋️ FitBrother — Form-First Gym Platform
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-Engineered a real-time code collaboration platform with Monaco Editor, WebSocket synchronization, live cursor tracking, instant execution across 10+ languages via Judge0 API, live chat with typing indicators, and interview mode with timer and question bank.
+Form-first Android gym platform with 220+ GIF form guides, Body Map training, class booking with waitlists and QR check-in, offline workout logging, and a Pakistan trainer marketplace (chat, voice, JazzCash / EasyPaisa).
 
-**Impact:** Live cursors · 10+ languages · Interview-ready collaboration
+**Impact:** Multi-role product · Waitlist state machine · Demo + Firebase dual mode  
+**Links:** [GitHub](https://github.com/dawoodjaved)
 
 ---
 
-### 🚀 SaaSify 2025 — Enterprise SaaS Boilerplate
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### 💊 MedRem — Medication Adherence App
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR-FF6B6B?style=flat-square)
 
-Created a production-ready SaaS boilerplate with multi-tenant architecture, NextAuth.js authentication (Email and Google OAuth), Stripe billing with a 14-day free trial, role-based access control, team invitations, and Docker deployment.
+Patient-and-caregiver medication adherence app with timezone-aware push reminders, critical-dose escalation, OCR prescription intake, offline Taken / Snooze sync, adherence PDFs, and a production-scale Pakistan doctor directory of **11,142** profiles.
 
-**Impact:** Multi-tenant · Auth · Billing · Docker-ready launch path
+**Impact:** Critical-dose escalation · Offline reliability · 11,142-doctor search at scale  
+**Links:** [GitHub](https://github.com/dawoodjaved)
 
 ---
 
@@ -601,14 +664,15 @@ Developed a cross-product bug tracking and assignment system with real-time Slac
 
 ---
 
-### 💊 Medication Reminder App
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR-FF6B6B?style=flat-square)
+### 🧲 HubSpot CRM Integrations (Apollo & Redmine)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo-311C87?style=flat-square)
+![Redmine](https://img.shields.io/badge/Redmine-B32024?style=flat-square)
 
-Launched a cross-platform mobile application for daily medication management with smart push notifications, OCR-based medicine label scanning, medication history tracking, and secure OTP phone authentication, deployed via Expo and EAS CLI.
+Production HubSpot pipelines for Sales and CS: Apollo auto-enrichment of blank contacts (never overwriting existing CRM data) and Redmine Active versus Historic engineering work mapped onto Company and Deal records.
 
-**Impact:** Cross-platform · OCR scanning · Secure OTP auth
+**Impact:** Replaced manual CSV analysis · GTM visibility into delivery · Property-level audit trails  
+**Links:** [EZO](https://ezo.io/ezofficeinventory)
 
 </div>
 
