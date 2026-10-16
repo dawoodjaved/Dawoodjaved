@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=150&lines=5%2B+Years+Building+High-Performance+Enterprise+SaaS+%F0%9F%9A%80;Rails+%7C+React+%7C+React+Native+%7C+Next.js+%7C+TypeScript;Integrations+%7C+Mobile+%7C+Marketplaces+%7C+Real--time+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=150&lines=6%2B+Years+Building+High-Performance+Enterprise+SaaS+%F0%9F%9A%80;Rails+%7C+React+%7C+React+Native+%7C+Next.js+%7C+TypeScript;Integrations+%7C+Mobile+%7C+Marketplaces+%7C+Real--time+Systems" alt="Typing SVG" />
 </a>
 
 <!-- SOCIAL BADGES -->
