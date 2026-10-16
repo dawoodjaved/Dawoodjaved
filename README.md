@@ -40,7 +40,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-Full Stack Software Engineer with **5+ years** of experience designing, building, and optimizing high-performance web applications for enterprise SaaS — plus shipping personal mobile and marketplace products end to end. Deep expertise in **Ruby on Rails**, **React.js**, **React Native / Expo**, **Next.js**, and **TypeScript**, with a track record of cloud integrations, database optimization, identity and access management, and production-grade security. Known for turning complex customer workflows into scalable, maintainable systems with measurable business impact.
+Full Stack Software Engineer with **6+ years** of experience designing, building, and optimizing high-performance web applications for enterprise SaaS — plus shipping personal mobile and marketplace products end to end. Deep expertise in **Ruby on Rails**, **React.js**, **React Native / Expo**, **Next.js**, and **TypeScript**, with a track record of cloud integrations, database optimization, identity and access management, and production-grade security. Known for turning complex customer workflows into scalable, maintainable systems with measurable business impact.
 
 ```typescript
 const dawood: Developer = {
@@ -48,7 +48,7 @@ const dawood: Developer = {
   location: "Lahore, Pakistan 🇵🇰",
   role: "Senior Software Engineer",
   company: "7vals (EZO)",
-  experience: "5+ years",
+  experience: "6+ years",
   education: {
     degree: "BSc Computer Science",
     institution: "UET Lahore",
